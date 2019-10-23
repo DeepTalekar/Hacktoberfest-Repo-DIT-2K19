@@ -27,3 +27,9 @@ About: Programming teacher<br/>
 Programming Language: Java, JS, C, C++, C#<br/>
 Email: and1res@hotmail.com<br/>
 
+Name: [Deep Talekar](https://github.com/DeepTalekar)<br/>
+Place: India<br/>
+About: Interested in Software Development and Networking<br/>
+Programming Language: C, C++<br/>
+Email: deeputalekar@gmail.com<br/>
+
